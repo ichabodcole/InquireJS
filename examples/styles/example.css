@@ -1,0 +1,12 @@
+.mouse-follow{
+  position: absolute;
+  background-color: white;
+  width: 55px;
+  height: 47px;
+  border: 1px solid black;
+}
+
+.mouse-follow span{
+  margin: 5px 5px;
+  display: block;
+}
