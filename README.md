@@ -1,1 +1,1 @@
-### Directory and file template for distributing JavaScript libraries / components.
+### Javascript library for sending contextual feedback to web authors.
